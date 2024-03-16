@@ -61,7 +61,7 @@ function calculateTotal() {
         total = subtotal;
     }
 
-    const formattedTotal = total.toFixed(2);
+    const formattedTotal = `${total.toFixed(2)}`;
     document.querySelector('#total').textContent = formattedTotal;
 }
 
