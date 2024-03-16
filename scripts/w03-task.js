@@ -70,13 +70,17 @@ function calculateTotal() {
 let sequence = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13];
 document.querySelector('#array').textContent = sequence.toString();
 /* Output Odds Only Array */
-let oddArray = sequence.filter((num) => num % 2 === 1);
+let oddArray = sequence.filter(num => num % 2 == 1);
 document.querySelector('#odds').textContent = oddArray.toString();
 /* Output Evens Only Array */
-let evenArray = sequence.filter((num) => num % 2 === 0);
+let evenArray = sequence.filter(num => num % 2 == 0);
 document.querySelector('#evens').textContent = evenArray.toString();
 /* Output Sum of Org. Array */
-
+let sumOfSequence = sequence.reduce((sum, number) => sum + number);
+document.querySelector('#sumOfArray').textContent = sumOfSequence.toString();
 /* Output Multiplied by 2 Array */
-
+let multipliedArray = sequence.map(number => number * 2);
+document.querySelector('#multiplied').textContent = multipliedArray.toString();
 /* Output Sum of Multiplied by 2 Array */
+let sumOfMultipliedArray = multipliedArray.reduce((sum, number) => sum + number);
+document.querySelector('#sumOfMultiplied').textContent = sumOfMultipliedArray.toString();
