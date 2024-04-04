@@ -314,3 +314,15 @@ footer {
 
 }
 
+#recipes{
+    display: grid;
+    grid-template-columns: 2;
+}
+
+#article{
+    text-align: center;
+}
+
+#recipeImage{
+    width: 25%;
+}
