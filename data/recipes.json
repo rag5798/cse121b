@@ -1,14 +1,211 @@
 [
     {
-        "Name": "Pasta",
-        "IngredientList": ["Your Choice Of Pasta"],
-        "ImageUrl": "https://delishcooking101.com/wp-content/uploads/2020/12/simple-pasta-sauces-fresh-easy-pasta-with-tomato-cream-sauce-ministry-of-curry-of-simple-pasta-sauces.jpg",
-        "InstructionList": ["Bring Water To Rolling Boil", "Add Pasta to Pot", "Wait 10 Minutes", "Drain Noodles, Without Washing"]
+        "Name": "Pick Me Up Energy Bites",
+        "IngredientList": ["1 cup - old-fashion oats",
+
+        "2/3 sup - toasted, shredded coconut (sweetened or unsweetened - I use unsweetened to limit the amount of sugar)",
+        
+        "1/2 cup - creamy peanut butter",
+        
+        "1/2 cup - ground flaxseed",
+        
+        "1/2 cup - semisweet chocolate chips (I use mini chios and buy nondairy ones - still taste great)",
+        
+        "1/3 cup - honey",
+        
+        "1 tablespoon - chia seeds (optional)",
+        
+        "1 teaspoon - vanilla extract"],
+        "ImageUrl": "https://www.freepik.com/premium-photo/healthy-energy-balls-made-dried-fruits-nuts-with-oatmeal-muesli_4331649.htm#query=energy%20bites&position=31&from_view=keyword&track=ais&uuid=34c0f776-45fc-4643-b845-f16e0543b94a",
+        "InstructionList": ["Mix all ingredients in a bowl and refrigerate for 1-2 hours until the mixture is chilled.", 
+        "Roll mixture into 1-inch balls.", 
+        "These can be stored in a sealed container in the refrigerator for 1 week or in the freezer for up to 3 months."]
     },
     {
-        "Name": "Pasta",
-        "IngredientList": ["Your Choice Of Pasta"],
-        "ImageUrl": "https://delishcooking101.com/wp-content/uploads/2020/12/simple-pasta-sauces-fresh-easy-pasta-with-tomato-cream-sauce-ministry-of-curry-of-simple-pasta-sauces.jpg",
-        "InstructionList": ["Bring Water To Rolling Boil", "Add Pasta to Pot", "Wait 10 Minutes", "Drain Noodles, Without Washing"]
+        "Name": "Breakfest Casserole",
+        "IngredientList": ["6 slices bread cubed",
+        "1 pound sausage, browned, drained",
+        "1 1/2 cups shredded Cheddar cheese",
+        "8 each eggs, beaten",
+        "2 cups milk",
+        "1 teaspoon salt" ,
+        "1 teaspoon ground mustard",
+        "pepper to taste"],
+        "ImageUrl": "https://media.istockphoto.com/id/155359449/photo/savory-breakfast-casserole.jpg?s=1024x1024&w=is&k=20&c=C0GYyILBEijtkdoDPSKyt4Gj-xB-V-EI3j7mrre_5JQ=",
+        "InstructionList": ["Cube bread and place evenly in greased 9x13 pan or baking dish.", 
+         "Sprinkle evenly with sausage and cheese. Over ingredients in pan.", 
+         "May cover and chill overnight. (if left overnight, remove from refrigerator 15 minutes",
+         "325 degrees or until set",
+         "Cut into squares to serve",
+         "Serves 8 to 10"]
+    },
+    {
+        "Name": "Quick Waffles",
+        "IngredientList": ["3 eggs",
+
+        "2 cups flour",
+        
+        "1 cup milk",
+        
+        "1/2 tsp. salt",
+        
+        "1/2 cup melted butter or margarine",
+        
+        "1 Tbsp. baking powder",
+        
+        "1 Tbsp. vanilla (optional)",
+        
+        "2 tsp. sugar"],
+        "ImageUrl": "https://images.pexels.com/photos/4109465/pexels-photo-4109465.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "InstructionList": ["Beat whole eggs in a bowl until thick.",
+        "Beat milk, melted butter and vanilla into eggs.", 
+        "In a separate bowl, combine remaining ingredients.", 
+        "Sift into egg mixture, and mix well. Bake as directed.",
+        "YIELD: 6 - 8 WAFFLES",
+        "Variation: Cinnamon - Apple. Add 1 apple peeled and shredded, 1 tsp. vanilla and 1/2 tsp. cinnamon to batter."]
+    },
+    {
+        "Name": "Pancakes",
+        "IngredientList": ["1 1/2 cups flour",
+
+        "2 tablespoons Suger tablespoon",
+        
+        "1 tablespoon baking power",
+        
+        "½ teaspoon salt",
+        
+        "1 1/4 Cups milk",
+        
+        "1 egg",
+        
+        "2 telepan butter (melted).",
+        
+        "1 tablespoon vanilla"],
+        "ImageUrl": "https://media.istockphoto.com/id/1330604424/photo/macro-closeup-side-view-of-stack-of-buttermilk-pancakes-on-plate-as-traditional-breakfast.jpg?s=1024x1024&w=is&k=20&c=xfTn_tEiCp9oIdd0ljH0s2G2qNBPqZd_5qQltsKx8uQ=",
+        "InstructionList": ["mix dry ingredients in separate bowL",
+
+        "mix wet ingredients in a bowl",
+        
+        "then combine"]
+    },
+    {
+        "Name": "Tortilla Soup",
+        "IngredientList": ["1 can bushes black bean fiesta",
+
+        "4 cups chicken broth",
+        
+        "2 (1507) cans of pumpkin puree",
+        
+        "4 cans black beans",
+        
+        "2 cans fire roasted tomatoes",
+        
+        "1 teaspoon chili powder",
+        
+        "1/2 tsp Cumin",
+
+        "peper to taste"],
+        "ImageUrl": "https://media.istockphoto.com/id/501595832/photo/tortilla-chicken-soup.jpg?s=1024x1024&w=is&k=20&c=o35srSpDxaReTxnO5oS92S33WKRYUILwOhTgTJOQZWQ=",
+        "InstructionList": ["add all ingredients to pot",
+        
+        "Cock until beans are tender"]
+    },
+    {
+        "Name": "Yam Delight",
+        "IngredientList": ["3 c. cooked, mashed yams",
+
+        "1/2 c. sugar",
+        
+        "1/2 c. milk",
+        
+        "2 eggs, beaten",
+        
+        "1 tsp. vanilla",
+        
+        "1/2 tsp. salt",
+        
+        "1/2 stick melted butter",
+        
+        "1/2 c. light brown sugar",
+        
+        "1/4 c. chopped nuts",
+        
+        "1/3 stick melted butter",
+        
+        "1/3 c. flour"],
+        "ImageUrl": "https://lh3.googleusercontent.com/-L_RrcRhsWKsQplv4LmOHYGmZvioxHC-akrH19r2LeJoBilLpk5__AwoN6b9moHyYUcsypbZqRI731YehQMQ1Uk3Tis1dVmo3LgQyrc=w523-h411-p",
+        "InstructionList": ["Combine yams or sweet potatoes, sugar, milk, eggs, vanilla, salt and 1/2 stick melted butter.", 
+        
+        "Spoon into a 1 1/2 quart baking dish. Mix remaining ingredients and spread over potato mixture.",
+
+        "Bake at 350°, uncovered, for 30 to 40 minutes.",
+        
+        "This can be made and baked a day or two ahead. A must for holidays!"]
+    },
+    {
+        "Name": "FRUIT DIP",
+        "IngredientList": ["8 oz. Cool Whip",
+
+        "1 (4 1/4 oz.) box American egg custard",
+        
+        "1 tsp. brandy",
+        
+        "1 tsp. rum"],
+        "ImageUrl": "https://media.istockphoto.com/id/480903732/photo/fruit-and-yogurt-cream.jpg?s=1024x1024&w=is&k=20&c=wL6tb3FcVI0afPpvEDQ5hfif-RZ7VXLK2dHAeUJM3Jk=",
+        "InstructionList": ["Whip all ingredients with electric mixer.",
+
+        "Chill.", 
+        
+        "Serve"]
+    },
+    {
+        "Name": "JALAPENO DIP",
+        "IngredientList": ["1 (2 Ib.) box Velveeta cheese",
+
+        "2 Ib. lean hamburger, fried and drained",
+        
+        "2 cans Cheddar cheese soup",
+        
+        "2 cans diced green chilies",
+        
+        "1 jar jalapenos, diced"],
+        "ImageUrl": "https://media.istockphoto.com/id/1318691590/photo/dish-of-jalapeno-popper-dip.jpg?s=1024x1024&w=is&k=20&c=i7uyIG63NdDqtO9JLXxWm0nF70TG_Aaf9q4zdCFc4Y4=",
+        "InstructionList": ["Combine all in heavy pan or crock-pot and heat.", 
+        "Serve with tortilla chips."]
+    },
+    {
+        "Name": "NACHO DIP",
+        "IngredientList": ["2 cans Cheddar cheese soup (10 oz. each)",
+        
+        "1 (16 oz.) jar Cheez Whiz",
+        
+        "1 (4 oz.) can jalapeno relish"],
+        "ImageUrl": "https://images.pexels.com/photos/1200354/pexels-photo-1200354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "InstructionList": ["Mix all ingredients and heat.",
+
+        "Serve as a hot dip with"]
+    },
+    {
+        "Name": "TOSTITO DIP",
+        "IngredientList": ["1 c. sour cream",
+
+        "1 (8 oz.) cream cheese",
+        
+        "1 tsp. garlic salt",
+        
+        "1 Tbsp. Worcestershire sauce"],
+        "ImageUrl": "https://images.pexels.com/photos/8448331/pexels-photo-8448331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "InstructionList": ["Dice and layer shredded Cheddar cheese, bell pepper, onion, tomato and lettuce.", 
+        "Place mixture in a clear glass dish.", 
+        "Layer vegetables, ending with lettuce. Use nacho chips to dip."]
+    },
+    {
+        "Name": "DATE AND BACON ROLL",
+        "IngredientList": ["box of pitted dates",
+
+        "1 lb. bacon"],
+        "ImageUrl": "https://images.pexels.com/photos/36756/food-pizza-roll-baked.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "InstructionList": ["Cut bacon slices in half.", 
+        "Roll date in bacon slice."]
     }
 ]
