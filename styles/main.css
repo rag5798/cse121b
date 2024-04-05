@@ -314,6 +314,10 @@ footer {
 
 }
 
+#userRecipe{
+    text-align: center;
+}
+
 #recipes{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
