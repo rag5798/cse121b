@@ -9,9 +9,9 @@ const setUserRecipe = () => {
     let userIngredientList = userMadeIngredients.split(',');
     let userInstructionsList = userMadeInstructions.split(',');
     let data = {
-        "Name": userMadeName,
+        "Name": `${userMadeName}`,
         "IngredientList": userIngredientList,
-        "ImageUrl": userMadeImage,
+        "ImageUrl": `${userMadeImage}`,
         "InstructionList": userInstructionsList
     };
     recipeList.push(data);
@@ -30,7 +30,6 @@ const reset = () => {
 
 
 document.querySelector('#submit').addEventListener('click', (event) => {
-    // Check if any of the input fields are empty
     if (document.querySelector('#name').value === '' || 
         document.querySelector('#ingredients').value === '' || 
         document.querySelector('#instructions').value === '' || 
@@ -49,9 +48,9 @@ const displayRecipes = (recipes) => {
         let h3 = document.createElement('h2');
         h3.textContent = recipe.Name;
         let instructionTitle = document.createElement('h3');
-        instructionTitle.textContent = 'Instructions';
+        instructionTitle.textContent = `Instructions for ${recipe.Name}`;
         let ingredientTitle = document.createElement('h3');
-        ingredientTitle.textContent = 'Ingredients';
+        ingredientTitle.textContent = `Ingredients of ${recipe.Name}`;
         let img = document.createElement('img');
         img.setAttribute('src', recipe.ImageUrl);
         img.setAttribute('alt', recipe.Name);
